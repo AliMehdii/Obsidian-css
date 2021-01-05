@@ -22,13 +22,13 @@ Highlight text italic.
 ## Editor mode and Preview mode
  
 ### Highlight-text-background
-![Text Background](https://github.com/steveyang331/Obsidian-css/blob/main/images/Highlight-text-background.png)
+![Text Background](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/Highlight-text-background.png)
  
 ### Highlight-text-bold
- ![Highlight-text-bold](https://github.com/steveyang331/Obsidian-css/blob/main/images/Highlight-text-bold.png)
+ ![Highlight-text-bold](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/Highlight-text-bold.png)
  
 ### Highlight-text-italic
- ![Highlight-text-italic](https://github.com/steveyang331/Obsidian-css/blob/main/images/Highlight-text-italic.png)
+ ![Highlight-text-italic](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/Highlight-text-italic.png)
  
 ## FAQ
 
