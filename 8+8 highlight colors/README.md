@@ -8,9 +8,9 @@
 ```
 #h/COLOR_name
 
-Highlight text background ,
-Highlight text bold ,
-Highlight text italic. 
+Highlight text background 
+Highlight text bold 
+Highlight text italic
 ``` 
 ``` 
 #h/pink ==pink==
