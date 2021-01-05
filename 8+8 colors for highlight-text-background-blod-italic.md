@@ -7,11 +7,11 @@
 
 ## How to use
 ```
-    #h/COLOR_name
-    
-    Highlight text background ,
-    Highlight text bold ,
-    Highlight text italic. 
+#h/COLOR_name
+
+Highlight text background ,
+Highlight text bold ,
+Highlight text italic. 
 ``` 
 ``` 
 #h/pink ==pink==
@@ -32,14 +32,14 @@
 ### Highlight-text-italic
  ![Highlight-text-italic](https://github.com/steveyang331/Obsidian-css/blob/main/images/Highlight-text-italic.png)
  
-### 
+### FAQ
 
- ### Why use nested tag ? 
+### Why use nested tag ? 
  If don't use nested tag, the color tags list is long , it's not easy to manage color tags on the tag panel.
  If use nested tag, all color tags under the same "h" parent tag.
 ### Why add WYSIWYG editor css for highlight colors ?
  If don't use WYSIWYS edior css , the color tag always display. We use it for hidden it.
 
 
-## Known bugs
-
+## Bugs but not bugs
+In light theme, haze but perfect with yellow color.
