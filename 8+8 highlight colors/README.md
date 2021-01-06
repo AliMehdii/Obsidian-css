@@ -20,6 +20,10 @@ Highlight text italic
 ``` 
 
 ## Editor mode and Preview mode
+
+## Highlight colors statistics
+
+![h-nested-tag](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/h-nested-tag.png)
  
 ### Highlight-text-background
 ![Text Background](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/Highlight-text-background.png)
