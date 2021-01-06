@@ -106,20 +106,22 @@ At this time, use colorful highlights for text background ,bold, italic.
 The whole page looks very beautiful, but the colors make chaos, **color chaos**, right? 
 
 such as 
+
 ![Pasted image 20210106162826.png](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/Pasted%20image%2020210106162826.png)
 
 **How to distinguish different color text?**
 **It's really hard to distinguish by eyes ,right?**
 
 **Where the issue came from ?**
-Is this issue about colors ? No, colors don't do by themselves if you don't use them.
-Is this issue about so many colors ? No.
-Is this issue about this css snippet ? No.
+- Is this issue about colors ? No, colors don't do by themselves if you don't use them.
+- Is this issue about so many colors ? No.
+- Is this issue about this css snippet ? No.
 
 Probably, the problem came from nested tag and highlight color use different colors, Okay. 
 
 **What looks like use the same colors for both nested tag and highlight  ？**
 **Combine Nested tag colors and Highlight colors ?**
+
 Such as 
 
 ![Pasted image 20210106164507.png](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/Pasted%20image%2020210106164507.png)
@@ -151,7 +153,9 @@ In the further, I wish I don't use only 2 white and black highlight colors and a
 ` I use mind/heart to highlight text or background, not through code` .
 
 ## Why called 8 + 8 ? Why did I build 8 + 8 highlight colors?
+
 This is the most valuable, interesting and mysterious thing. 
+
 And This is also why I built this css snippet after I discovered mysterious thing.
 
 # About
@@ -160,6 +164,6 @@ Name:: 8 + 8 highlight colors
 Author:: @steve_yang331
 version:: 0.0.1
 Date:: 2021-1-5 15:08:45
-Download:: https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/8%20%2B%208%20highlight%20colors.css
+Download:: https://github.com/steveyang331/Obsidian-css
 ```
 
