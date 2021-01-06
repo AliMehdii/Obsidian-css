@@ -92,9 +92,12 @@ Compare all the things, using nested tag for manage highlights is the balance so
 ## Which highlight colors for specific contents ？ 
 ## Do I need all 16 highlight colors ? 
 
-Nested tag colors confilct with highlight colors 
+Nested tag colors confilct with highlight colors .
+
 probably, You already have colorful tag or/and colorful nested tag. 
+
 such as
+
 ![Pasted image 20210106160008.png](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/Pasted%20image%2020210106160008.png)
 
 ![Pasted image 20210106160058.png](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/Pasted%20image%2020210106160058.png)
@@ -110,17 +113,20 @@ such as
 ![Pasted image 20210106162826.png](https://github.com/steveyang331/Obsidian-css/blob/main/8%2B8%20highlight%20colors/images/Pasted%20image%2020210106162826.png)
 
 **How to distinguish different color text?**
+
 **It's really hard to distinguish by eyes ,right?**
 
-**Where the issue came from ?**
+**Where the issue came from?**
+
 - Is this issue about colors ? No, colors don't do by themselves if you don't use them.
 - Is this issue about so many colors ? No.
 - Is this issue about this css snippet ? No.
 
 Probably, the problem came from nested tag and highlight color use different colors, Okay. 
 
-**What looks like use the same colors for both nested tag and highlight  ？**
-**Combine Nested tag colors and Highlight colors ?**
+**What looks like use the same colors for both nested tag and highlight?**
+
+**Combine Nested tag colors and Highlight colors?**
 
 Such as 
 
@@ -130,11 +136,13 @@ Here's code if you need :
 
 Looks good, but still have many more colors. 
 
-**Can solve this issue by build plugin ?**
-**Well, the plugin can solve issue that more easier to set what I want colors.
-But the plugin can't solve color chaos, right ?**  
+**Can solve this issue by build plugin?**
 
-**How to solve color chaos issue ? **
+**Well, the plugin can solve issue that more easier to set what you want colors.**
+
+**But the plugin can't solve color chaos, right ?**  
+
+**How to solve color chaos issue?**
 
 # How do I use nested tag with color and highligh color ?
 
@@ -148,7 +156,7 @@ In the further, I wish I don't use only 2 white and black highlight colors and a
 
 **Yes, rarely use highlight colors is my final goal ,is my solution.**
 
-**If I don't use highlight colors , use what to highlight ? **
+**If I don't use highlight colors , use what to highlight?**
 
 ` I use mind/heart to highlight text or background, not through code` .
 
